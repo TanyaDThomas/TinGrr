@@ -13,6 +13,7 @@ TinGir is a fun and responsive website created using **HTML, CSS, and Bootstrap*
 ✅ Clean and modern UI with a **hero section, pricing plans, and testimonials**  
 ✅ Simple **contact page** (HTML & CSS only)  
 ✅ Mobile-friendly with smooth layouts  
+✅ Animated Gradient Background
 
 ## 🛠️ Technologies Used  
 - **HTML5**  
