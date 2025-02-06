@@ -6,7 +6,9 @@ TinGrr Bootstrap Project
 TinGir is a fun and responsive website created using **HTML, CSS, and Bootstrap**. It mimics a dating site—but for dogs! 🐶💙 This project was built as part of a Udemy web development course to practice **Bootstrap layouts, responsiveness, and modern web design**.
 
 ## 🚀 Live Demo  
-🔗 [Check out the live version here!](https://your-github-username.github.io/Tindog-Bootstrap-Website/)  
+🔗 Check out the live version down below!
+
+https://github.com/user-attachments/assets/0567155b-cc57-4361-9bdf-54f9e51a8652
 
 ## 📌 Features  
 ✅ Fully responsive design with **Bootstrap 5**  
@@ -33,11 +35,9 @@ TinGir is a fun and responsive website created using **HTML, CSS, and Bootstrap*
 ## 📂 Installation & Usage  
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-github-username/TinGrr
+   git clone https://github.com/TanyaDThomas/TinGrr
    ```
 2. **Open index.html in your browser
-
-https://github.com/user-attachments/assets/0567155b-cc57-4361-9bdf-54f9e51a8652
 
 3. **Add adjustments as needed to make it workable for you
 
